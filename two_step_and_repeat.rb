@@ -47,6 +47,8 @@ def how_many_steps
   end 
 end 
 
+how_many_steps
+
 
 
 def break_dance 
